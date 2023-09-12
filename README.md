@@ -7,4 +7,3 @@ JS script to extract color information from Spotify album covers to apply to a T
 - Written in JS, using bun
 - Expressive logging and spotify integration information
 - Ability to configure transitions and fade speed
-- 
