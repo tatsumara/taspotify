@@ -8,3 +8,4 @@ JS script to extract color information from Spotify album covers to apply to a T
 - Expressive logging and spotify integration information
 - Ability to configure transitions and fade speed
 - Possibly abstract connection logic to support multiple RGB bulb firmwares
+- Self contained multi platform binary with OS integration (for example KDE plasmoid)
